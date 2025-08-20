@@ -9,9 +9,9 @@ This project is licensed under the GNU General Public License v3.0 or later - se
 
 
 
-# 🤖 RX ChatBot - Intro Page
+# 🤖 RX ChatBot - 
 
-Welcome to the **RX ChatBot** intro project. This is a sleek, hacker-style webpage built using HTML, CSS, and JavaScript with a typing animation and bold design.
+
 
 ## 🚀 Features
 
