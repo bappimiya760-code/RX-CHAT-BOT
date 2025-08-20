@@ -40,7 +40,7 @@ This project is licensed under the GNU General Public License v3.0 or later - se
 ### 1. Repository Clone Karein
 
 ```bash
-[https://github.com/rxmaria761/rX-Chat-bot-fb-.git](https://github.com/rxabdullah007/RX-CHAT-BOT.git)
+https://github.com/rxmaria761/rX-Chat-bot-fb-.git](https://github.com/rxabdullah007/RX-CHAT-BOT.git)
 ```
 
 ### 2. Dependencies Installed
